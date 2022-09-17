@@ -1,0 +1,10 @@
+a = 3 #int
+print(type(a))
+a = 3.5 #float
+print(type(a))
+a = 'qwerty'#str
+print(type(a))
+a = True #bool
+print(type(a))
+a = '123' #str
+print(type(a))

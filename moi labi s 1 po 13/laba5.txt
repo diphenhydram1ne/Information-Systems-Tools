@@ -1,0 +1,3 @@
+a = input("введите свое имя")
+
+print("welcome to the club ",a)

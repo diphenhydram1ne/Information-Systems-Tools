@@ -1,0 +1,15 @@
+a=1901
+
+b=3000
+
+c=int(input())
+
+while c>1900 and c<3000 and ((c%4==0 and c%100!=0)or c%400==0):
+    
+print(c,"visokos")
+    
+c=c+1
+
+else:
+    
+print(c,"god ne podhodit")
